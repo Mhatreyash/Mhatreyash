@@ -8,9 +8,9 @@
   <p><img src="https://komarev.com/ghpvc/?username=Mhatreyash&label=Profile%20views&color=0e75b6&style=flat" alt="Mhatreyash" /></p>
   
   <p>
-    🌱 I’m currently learning <strong>Python</strong><br>
-    📫 How to reach me <strong>yashmhatre2810@gmail.com</strong><br>
-    👨‍💻 All of my projects are available at <strong>https://github.com/Mhatreyash</strong>
+    <!--🌱 I’m currently learning <strong>Python</strong><br>-->
+     How to reach me <strong>yashmhatre2810@gmail.com</strong><br>
+     All of my projects are available at <strong>https://github.com/Mhatreyash</strong>
   </p>
 
   <div>
