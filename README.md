@@ -36,11 +36,11 @@
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
   </p>
 
-  <h3 align="center">Stars</h3>
+ <!-- <h3 align="center">Stars</h3>
   <p>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhatreyash&langs_count=8&theme=dracula" alt="Mhatreyash" />
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mhatreyash&show_icons=true&locale=en&theme=dracula" alt="Mhatreyash" />
-  </p>
+  </p> -->
   
 </div>
 
